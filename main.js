@@ -6,7 +6,7 @@ function TodoList(id,title,date,isDone){
 }
 
 
-function addList = ()=>{
+function addList(){
 
 const list = [new TodoList(123,"Name",new Date, "isDone")];
 console.log(addList); 
